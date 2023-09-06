@@ -5,7 +5,7 @@ links:
   - label: '`r fontawesome::fa("twitter", fill = "mediumvioletred")` Instagram'
     url: "https://www.instagram.com/yanwang6841/"
   - label: '`r fontawesome::fa("github", fill = "mediumvioletred")` Github'
-    url: "https://github.com/"
+    url: "https://github.com/ywang241"
   - label:  '`r fontawesome::fa("envelope", fill = "mediumvioletred")` Mail'
     url: "mailto:ywang241281@gmail.com"
 
@@ -39,7 +39,7 @@ Cancer, especially cancer-related genetics
 
 ## Experience about data analysis 💔
 
-I once worked with SPSS. I'm sorry for the near-to-null experience in programming, no matter with R or Phython.
+I once worked with SPSS. I'm sorry for the near-to-null experience in programming, no matter with R or Python.
 
 ## My expectation in this class 🎈
 
